@@ -1,0 +1,98 @@
+.container .title {
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+margin-left: 24px;
+margin-top: 24px;
+}
+.tooltip{
+    width: 30px;
+    height: 30px;
+    background-color: #1CBF84;
+}
+
+.card{
+    display: flex;
+    direction: row;
+    justify-content: space-evenly;
+}
+.dash{
+width: 368px;
+height: 176px;
+background: #FFFFFF;
+box-shadow: 0px 35px 0px -27px  rgba(255,255,255,0.5);
+border-radius: 6px;
+}
+
+.container{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.iconeprimeira{
+    width: 56px;
+height: 24px;
+border-radius: 20px;
+background-color: #1CBF84;
+color:#FFFFFF;
+}
+
+.iconesegunda{
+    width: 56px;
+    height: 24px;
+    border-radius: 20px;
+    background-color: #EF0C35;
+    color:#FFFFFF;
+}
+
+.iconeterceira{
+    width: 56px;
+    height: 24px;
+    border-radius: 20px;
+    background-color: #1CBF84;
+    color:#FFFFFF;
+
+}
+
+.iconequarta{
+    width: 56px;
+    height: 24px;
+    border-radius: 20px;
+    background-color:  #EF0C35;
+    align-items: center;
+    color:#FFFFFF;
+}
+ 
+
+.sup-dash{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 10px;
+}
+
+.number{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1px;
+    margin-left: 24px;
+    color: #303B5B;
+}
+
+.type{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+margin-left: 24px;
+}
